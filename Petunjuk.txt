@@ -1,0 +1,9 @@
+############# URUTAN PEMBUATAN PROGRAM #################
+1. Membuat Database
+2. Membuat koneksi.php
+3. Membuat login.php
+4. Membuat header.php
+5. Membuat menu_navbar.php
+6. Membuat footer.php
+7. Membuat data_barang.php
+8. Membuat keluar.php
